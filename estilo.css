@@ -120,7 +120,7 @@ img {
    #contenido #principal,
    #contenido #secundario,
    #pie {
-     border: 0;
+     border: none;
    }
    
 #cabecera {
@@ -163,8 +163,13 @@ img {
 }
 
 #pie {
-  margin-top: 1em;  
+  margin-top: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  border-top: 1px solid #C5C5C5;
+  border-bottom: 1px solid #C5C5C5;
 }
+
 
 
 
