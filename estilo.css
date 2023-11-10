@@ -155,11 +155,11 @@ img {
 
 #publicidad {
   margin-top: 1em;
-  border: dashed 1px #cc6600;
+  border: 1px dashed #cc6600;
 }
 
 #secundario {
-  border: 1px #c5c5c5;
+  border: 1px solid #c5c5c5;
 }
 
 #pie {
